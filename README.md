@@ -6,15 +6,15 @@
 
 ## Process
  1. Gather information on Quebec bike stations through the usage of the Citybikes API
- 2. Collect information on restuarants, bars and gyms within a 1km radius of any given bikestation utilizing Foursquare API
+ 2. Collect information on restaurants, bars and gyms within a 1km radius of any given bikestation utilizing Foursquare API
  3. Explore, transform and clean data generated from API
  4. Repeat step 2 and 3 utilizing Yelp API 
- 5. Compare information recieved from both Foursquare and Yelp APIs
+ 5. Compare information received from both Foursquare and Yelp APIs
  6. Join information from all prior steps into one cohesive DataFrame
  7. Utilize EDA and data visualization methods to explore data
  8. Create a SQLite database to store information collected
  9. Build a regression models to analyze relationship between number of free bike at a given station and its average distance from a gym
- 10. Interperet results and present findings 
+ 10. Interpret results and present findings 
 
 
 
