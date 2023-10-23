@@ -1,4 +1,4 @@
-Latitude,Longitude,Rest/ Bar Rating,Average Distance_Bar,Average Distance_Gym
+Latitude,Longitude,Rest/Bar Rating,Average Distance_Bar,Average Distance_Gym
 46.786588174519565,-71.25823142456434,"0    8.1
 1    NaN
 2    8.5
@@ -108,7 +108,7 @@ Name: rating, dtype: float64",390.8,578.2
 7    NaN
 8    6.7
 9    8.5
-Name: rating, dtype: float64",502.1,517.4
+Name: rating, dtype: float64",502.1,0.0
 46.8014574117429,-71.22620529593462,"0    8.9
 1    8.4
 2    8.2
@@ -251,7 +251,7 @@ Name: rating, dtype: float64",511.9,321.0
 7    7.3
 8    7.7
 9    8.2
-Name: rating, dtype: float64",575.2,0.0
+Name: rating, dtype: float64",575.2,645.9
 46.82711487394143,-71.23470697516585,"0    8.6
 1    9.0
 2    8.7
@@ -350,7 +350,7 @@ Name: rating, dtype: float64",622.0,459.0
 7    7.7
 8    8.9
 9    8.6
-Name: rating, dtype: float64",510.6,0.0
+Name: rating, dtype: float64",510.6,707.375
 46.79135483991666,-71.25262917355235,"0    8.2
 1    8.1
 2    7.3
@@ -383,7 +383,7 @@ Name: rating, dtype: float64",455.6,720.8
 7    8.5
 8    7.6
 9    NaN
-Name: rating, dtype: float64",161.5,463.3333333333333
+Name: rating, dtype: float64",161.5,0.0
 46.78924450706438,-71.2442994386663,"0    8.8
 1    NaN
 2    6.6
@@ -394,7 +394,7 @@ Name: rating, dtype: float64",161.5,463.3333333333333
 7    NaN
 8    NaN
 9    7.3
-Name: rating, dtype: float64",498.7,0.0
+Name: rating, dtype: float64",498.7,727.6666666666666
 46.81109708055996,-71.21760167732813,"0    9.1
 1    8.8
 2    8.9
@@ -405,7 +405,7 @@ Name: rating, dtype: float64",498.7,0.0
 7    8.8
 8    8.2
 9    8.7
-Name: rating, dtype: float64",373.4,0.0
+Name: rating, dtype: float64",373.4,506.0
 46.82117479531745,-71.23453194398171,"0    7.9
 1    8.6
 2    9.1
@@ -438,7 +438,7 @@ Name: rating, dtype: float64",379.9,643.3333333333334
 7    8.8
 8    8.5
 9    9.2
-Name: rating, dtype: float64",191.4,526.7
+Name: rating, dtype: float64",191.4,0.0
 46.78938334025807,-71.26476528572462,"0    8.1
 1    7.7
 2    7.9
@@ -471,7 +471,7 @@ Name: rating, dtype: float64",381.6,625.9
 7    8.9
 8    9.2
 9    9.0
-Name: rating, dtype: float64",418.0,580.4
+Name: rating, dtype: float64",418.0,0.0
 46.803790282177374,-71.22581692861937,"0    8.3
 1    8.6
 2    8.2
@@ -482,7 +482,7 @@ Name: rating, dtype: float64",418.0,580.4
 7    9.0
 8    8.5
 9    9.3
-Name: rating, dtype: float64",247.4,514.75
+Name: rating, dtype: float64",247.4,0.0
 46.79652641037149,-71.2328549657563,"0    NaN
 1    6.2
 2    NaN
@@ -559,7 +559,7 @@ Name: rating, dtype: float64",308.7,464.8
 7    9.0
 8    8.4
 9    8.5
-Name: rating, dtype: float64",504.1,683.7
+Name: rating, dtype: float64",504.1,0.0
 46.817650062860366,-71.20873930382155,"0    8.5
 1    9.1
 2    8.9
@@ -702,7 +702,7 @@ Name: rating, dtype: float64",454.0,531.5
 7    8.8
 8    9.0
 9    8.8
-Name: rating, dtype: float64",439.8,0.0
+Name: rating, dtype: float64",439.8,637.2
 46.801147339783896,-71.23864794599436,"0    7.9
 1    7.7
 2    7.8
@@ -735,7 +735,7 @@ Name: rating, dtype: float64",488.6,888.6666666666666
 7    9.1
 8    7.8
 9    7.4
-Name: rating, dtype: float64",545.9,0.0
+Name: rating, dtype: float64",545.9,676.2
 46.807752157533336,-71.21574255155943,"0    8.8
 1    7.9
 2    8.3
@@ -768,7 +768,7 @@ Name: rating, dtype: float64",296.7,514.4
 7    8.4
 8    7.9
 9    9.0
-Name: rating, dtype: float64",345.0,517.5
+Name: rating, dtype: float64",345.0,0.0
 46.8166055540926,-71.24165805506132,"0    8.6
 1    7.9
 2    7.8
