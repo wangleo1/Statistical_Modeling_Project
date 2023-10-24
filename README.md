@@ -19,14 +19,27 @@
 
 
 ## Results
-(fill in what you found about the comparative quality of API coverage in your chosen area and the results of your model.)
+- In regards to Quebec, Foursquare provided better insight on local gyms whereas Yelp provided better quality data on restaurants
+
+-The model proved insufficient at exploring variations in the number of available bikes a given station at the 95% confidence interval -- sufficient at the 90% confidence interval
+
+- Granted a 90% confidence level, the number of available bikes at any given station is negatively correlated with said stations distance from a gym
+    - On average, for every 100m a bike station nears a gym the number of bikes available decreases by 4
+
+- The R-squared value indicates the model accounts for approximately 4.6% of the variation in the number available bikes
 
 ## Challenges 
-Request Constraints on Yelp API 
+- Request Constraints on Yelp API 
 
-Yelp outage 
+- Yelp outage 
 
+Lack of information from project radius constraints
 ## Future Goals
-Explore additional factors impacting the number of gyms and bike stations within a given city
+- Recreate model with loosened radius constraints
 
-Analyze the consumer basis of CityBikes users 
+- Investigate correlation utilizing larger cities/datasets
+
+- Explore additional factors impacting the number of gyms and bike stations within a given city
+
+- Analyze the consumer basis of CityBikes users 
+
