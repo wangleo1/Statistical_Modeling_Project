@@ -21,7 +21,7 @@
 ## Results
 - In regards to Quebec, Foursquare provided better insight on local gyms whereas Yelp provided better quality data on restaurants
 
--The model proved insufficient at exploring variations in the number of available bikes a given station at the 95% confidence interval -- sufficient at the 90% confidence interval
+- The model proved insufficient at exploring variations in the number of available bikes a given station at the 95% confidence interval - However, it is sufficient at the 90% confidence interval
 
 - Granted a 90% confidence level, the number of available bikes at any given station is negatively correlated with said stations distance from a gym
     - On average, for every 100m a bike station nears a gym the number of bikes available decreases by 4
