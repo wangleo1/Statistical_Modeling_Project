@@ -33,7 +33,7 @@
 
 - Yelp outage 
 
-Lack of information from project radius constraints
+- Lack of information from project radius constraints
 ## Future Goals
 - Recreate model with loosened radius constraints
 
